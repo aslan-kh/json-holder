@@ -1,0 +1,598 @@
+[
+    {
+        "id": 1,
+        "region": [
+            {
+                "name": "Europe",
+                "countries": [
+                    {
+                        "name": "Belgium",
+                        "code": "BE",
+                        "view": [
+                            {
+                                "id": 1,
+                                "name": "FYLocal",
+                                "data": [
+                                    {
+                                        "year": 2003,
+                                        "value": 3434000000
+                                    },
+                                    {
+                                        "year": 2004,
+                                        "value": 3433000000
+                                    },
+                                    {
+                                        "year": 2005,
+                                        "value": 3400000000
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 2,
+                                "name": "CYLocal",
+                                "data": [
+                                    {
+                                        "year": 2003,
+                                        "value": 4023000000
+                                    },
+                                    {
+                                        "year": 2004,
+                                        "value": 3964000000
+                                    },
+                                    {
+                                        "year": 2005,
+                                        "value": 3907000000
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 3,
+                                "name": "Current",
+                                "data": [
+                                    {
+                                        "year": 2003,
+                                        "value": 4023000000
+                                    },
+                                    {
+                                        "year": 2004,
+                                        "value": 3964000000
+                                    },
+                                    {
+                                        "year": 2005,
+                                        "value": 3907000000
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 4,
+                                "name": "Constant",
+                                "data": [
+                                    {
+                                        "year": 2004,
+                                        "value": 7800000000
+                                    },
+                                    {
+                                        "year": 2005,
+                                        "value": 4455000000
+                                    },
+                                    {
+                                        "year": 2006,
+                                        "value": 3907000000
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 5,
+                                "name": "Border",
+                                "data": [
+                                    {
+                                        "year": 2004,
+                                        "value": 4023000000
+                                    },
+                                    {
+                                        "year": 2005,
+                                        "value": 3964000000
+                                    },
+                                    {
+                                        "year": 2006,
+                                        "value": 3907000000
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Germany",
+                        "code": "DE",
+                        "view": [
+                            {
+                                "id": 1,
+                                "name": "FYLocal",
+                                "data": [
+                                    {
+                                        "year": 2003,
+                                        "value": 3434000000
+                                    },
+                                    {
+                                        "year": 2004,
+                                        "value": 3433000000
+                                    },
+                                    {
+                                        "year": 2005,
+                                        "value": 3400000000
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 2,
+                                "name": "CYLocal",
+                                "data": [
+                                    {
+                                        "year": 2003,
+                                        "value": 4023000000
+                                    },
+                                    {
+                                        "year": 2004,
+                                        "value": 3964000000
+                                    },
+                                    {
+                                        "year": 2005,
+                                        "value": 3907000000
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 3,
+                                "name": "Current",
+                                "data": [
+                                    {
+                                        "year": 2003,
+                                        "value": 4023000000
+                                    },
+                                    {
+                                        "year": 2004,
+                                        "value": 3964000000
+                                    },
+                                    {
+                                        "year": 2005,
+                                        "value": 3907000000
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 4,
+                                "name": "Constant",
+                                "data": [
+                                    {
+                                        "year": 2004,
+                                        "value": 7800000000
+                                    },
+                                    {
+                                        "year": 2005,
+                                        "value": 4455000000
+                                    },
+                                    {
+                                        "year": 2006,
+                                        "value": 3907000000
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 5,
+                                "name": "Border",
+                                "data": [
+                                    {
+                                        "year": 2004,
+                                        "value": 4023000000
+                                    },
+                                    {
+                                        "year": 2005,
+                                        "value": 3964000000
+                                    },
+                                    {
+                                        "year": 2006,
+                                        "value": 3907000000
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Sweden",
+                        "code": "SE",
+                        "view": [
+                            {
+                                "id": 1,
+                                "name": "FYLocal",
+                                "data": [
+                                    {
+                                        "year": 2003,
+                                        "value": 3434000000
+                                    },
+                                    {
+                                        "year": 2004,
+                                        "value": 3433000000
+                                    },
+                                    {
+                                        "year": 2005,
+                                        "value": 3400000000
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 2,
+                                "name": "CYLocal",
+                                "data": [
+                                    {
+                                        "year": 2003,
+                                        "value": 4023000000
+                                    },
+                                    {
+                                        "year": 2004,
+                                        "value": 3964000000
+                                    },
+                                    {
+                                        "year": 2005,
+                                        "value": 3907000000
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 3,
+                                "name": "Current",
+                                "data": [
+                                    {
+                                        "year": 2003,
+                                        "value": 4023000000
+                                    },
+                                    {
+                                        "year": 2004,
+                                        "value": 3964000000
+                                    },
+                                    {
+                                        "year": 2005,
+                                        "value": 3907000000
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 4,
+                                "name": "Constant",
+                                "data": [
+                                    {
+                                        "year": 2004,
+                                        "value": 7800000000
+                                    },
+                                    {
+                                        "year": 2005,
+                                        "value": 4455000000
+                                    },
+                                    {
+                                        "year": 2006,
+                                        "value": 3907000000
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 5,
+                                "name": "Border",
+                                "data": [
+                                    {
+                                        "year": 2004,
+                                        "value": 4023000000
+                                    },
+                                    {
+                                        "year": 2005,
+                                        "value": 3964000000
+                                    },
+                                    {
+                                        "year": 2006,
+                                        "value": 3907000000
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "region": [
+            {
+                "name": "Asian",
+                "countries": [
+                    {
+                        "name": "Japan",
+                        "code": "JP",
+                        "view": [
+                            {
+                                "id": 1,
+                                "name": "FYLocal",
+                                "data": [
+                                    {
+                                        "year": 2003,
+                                        "value": 3434000000
+                                    },
+                                    {
+                                        "year": 2004,
+                                        "value": 3433000000
+                                    },
+                                    {
+                                        "year": 2005,
+                                        "value": 3400000000
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 2,
+                                "name": "CYLocal",
+                                "data": [
+                                    {
+                                        "year": 2003,
+                                        "value": 4023000000
+                                    },
+                                    {
+                                        "year": 2004,
+                                        "value": 3964000000
+                                    },
+                                    {
+                                        "year": 2005,
+                                        "value": 3907000000
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 3,
+                                "name": "Current",
+                                "data": [
+                                    {
+                                        "year": 2003,
+                                        "value": 4023000000
+                                    },
+                                    {
+                                        "year": 2004,
+                                        "value": 3964000000
+                                    },
+                                    {
+                                        "year": 2005,
+                                        "value": 3907000000
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 4,
+                                "name": "Constant",
+                                "data": [
+                                    {
+                                        "year": 2004,
+                                        "value": 7800000000
+                                    },
+                                    {
+                                        "year": 2005,
+                                        "value": 4455000000
+                                    },
+                                    {
+                                        "year": 2006,
+                                        "value": 3907000000
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 5,
+                                "name": "Border",
+                                "data": [
+                                    {
+                                        "year": 2004,
+                                        "value": 4023000000
+                                    },
+                                    {
+                                        "year": 2005,
+                                        "value": 3964000000
+                                    },
+                                    {
+                                        "year": 2006,
+                                        "value": 3907000000
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "China",
+                        "code": "CN",
+                        "view": [
+                            {
+                                "id": 1,
+                                "name": "FYLocal",
+                                "data": [
+                                    {
+                                        "year": 2003,
+                                        "value": 3434000000
+                                    },
+                                    {
+                                        "year": 2004,
+                                        "value": 3433000000
+                                    },
+                                    {
+                                        "year": 2005,
+                                        "value": 3400000000
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 2,
+                                "name": "CYLocal",
+                                "data": [
+                                    {
+                                        "year": 2003,
+                                        "value": 4023000000
+                                    },
+                                    {
+                                        "year": 2004,
+                                        "value": 3964000000
+                                    },
+                                    {
+                                        "year": 2005,
+                                        "value": 3907000000
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 3,
+                                "name": "Current",
+                                "data": [
+                                    {
+                                        "year": 2003,
+                                        "value": 4023000000
+                                    },
+                                    {
+                                        "year": 2004,
+                                        "value": 3964000000
+                                    },
+                                    {
+                                        "year": 2005,
+                                        "value": 3907000000
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 4,
+                                "name": "Constant",
+                                "data": [
+                                    {
+                                        "year": 2004,
+                                        "value": 7800000000
+                                    },
+                                    {
+                                        "year": 2005,
+                                        "value": 4455000000
+                                    },
+                                    {
+                                        "year": 2006,
+                                        "value": 3907000000
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 5,
+                                "name": "Border",
+                                "data": [
+                                    {
+                                        "year": 2004,
+                                        "value": 4023000000
+                                    },
+                                    {
+                                        "year": 2005,
+                                        "value": 3964000000
+                                    },
+                                    {
+                                        "year": 2006,
+                                        "value": 3907000000
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Vietnam",
+                        "code": "VN",
+                        "view": [
+                            {
+                                "id": 1,
+                                "name": "FYLocal",
+                                "data": [
+                                    {
+                                        "year": 2003,
+                                        "value": 3434000000
+                                    },
+                                    {
+                                        "year": 2004,
+                                        "value": 3433000000
+                                    },
+                                    {
+                                        "year": 2005,
+                                        "value": 3400000000
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 2,
+                                "name": "CYLocal",
+                                "data": [
+                                    {
+                                        "year": 2003,
+                                        "value": 4023000000
+                                    },
+                                    {
+                                        "year": 2004,
+                                        "value": 3964000000
+                                    },
+                                    {
+                                        "year": 2005,
+                                        "value": 3907000000
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 3,
+                                "name": "Current",
+                                "data": [
+                                    {
+                                        "year": 2003,
+                                        "value": 4023000000
+                                    },
+                                    {
+                                        "year": 2004,
+                                        "value": 3964000000
+                                    },
+                                    {
+                                        "year": 2005,
+                                        "value": 3907000000
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 4,
+                                "name": "Constant",
+                                "data": [
+                                    {
+                                        "year": 2004,
+                                        "value": 7800000000
+                                    },
+                                    {
+                                        "year": 2005,
+                                        "value": 4455000000
+                                    },
+                                    {
+                                        "year": 2006,
+                                        "value": 3907000000
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 5,
+                                "name": "Border",
+                                "data": [
+                                    {
+                                        "year": 2004,
+                                        "value": 4023000000
+                                    },
+                                    {
+                                        "year": 2005,
+                                        "value": 3964000000
+                                    },
+                                    {
+                                        "year": 2006,
+                                        "value": 3907000000
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]
